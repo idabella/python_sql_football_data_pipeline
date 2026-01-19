@@ -1,11 +1,11 @@
-# ⚽ Premier League ETL Pipeline
+# <img src="https://upload.wikimedia.org/wikipedia/en/f/f2/Premier_League_Logo.svg" alt="Premier League Logo" width="200">   <br> <br>   Premier League ETL Pipeline
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/f/f2/Premier_League_Logo.svg" alt="Premier League Logo" width="200">
+  
 </p>
 
 <p align="center">
-  <img src="./docs/etl_schema.svg" alt="ETL Pipeline" width="700">
+  <img src="assets/schema.svg" alt="ETL Pipeline" width="700">
 </p>
 
 <p align="center">
